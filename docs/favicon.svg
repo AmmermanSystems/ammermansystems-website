@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ammerman Systems">
+  <rect width="64" height="64" fill="#141618"/>
+  <rect x="10" y="10" width="44" height="44" fill="none" stroke="#c9a063" stroke-width="2.5"/>
+  <path d="M18 46 L32 18 L46 46" fill="none" stroke="#7f97a6" stroke-width="2.5" stroke-linejoin="miter"/>
+  <path d="M24 36 H40" stroke="#c9a063" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Ammerman Systems LLC">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101214"/>
+      <stop offset="55%" stop-color="#141618"/>
+      <stop offset="100%" stop-color="#1c1f22"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="rgba(243,241,236,0.08)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="980" cy="160" r="220" fill="rgba(127,151,166,0.18)"/>
+  <circle cx="1040" cy="220" r="140" fill="rgba(201,160,99,0.12)"/>
+  <rect x="72" y="72" width="28" height="28" fill="none" stroke="#c9a063" stroke-width="3"/>
+  <text x="72" y="220" fill="#f3f1ec" font-family="Syne, Avenir Next, Segoe UI, sans-serif" font-size="72" font-weight="800">Ammerman Systems LLC</text>
+  <text x="72" y="290" fill="#c9a063" font-family="Instrument Serif, Georgia, serif" font-size="42" font-style="italic">Fides et Ingenium</text>
+  <text x="72" y="360" fill="#b4b0a8" font-family="Source Sans 3, Helvetica Neue, sans-serif" font-size="30">Mechanical &amp; electromechanical engineering</text>
+</svg>
